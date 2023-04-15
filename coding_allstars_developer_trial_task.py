@@ -110,6 +110,3 @@ for i in urls:
     
     test_count += 1
     
-image_test(urls[0])
-
-guidance_test(urls[0])
